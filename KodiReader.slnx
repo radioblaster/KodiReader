@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="KodiReader.Business/KodiReader.Business.csproj" />
+  <Project Path="KodiReader.Data/KodiReader.Data.csproj" />
+  <Project Path="KodiReader.Dto/KodiReader.Dto.csproj" />
+  <Project Path="KodiReader.Tray/KodiReader.Tray.csproj" />
+</Solution>
